@@ -1,2 +1,3 @@
 # Demo-repo
-this is my frist git repo
+This is My frist Git Repository.
+Author - Umar Alam Yt
